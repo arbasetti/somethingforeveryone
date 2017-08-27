@@ -1,0 +1,160 @@
+@font-face
+{
+    font-family:robotocondensed-regular;
+    src:url(../fonts/robotocondensed-regular.ttf);
+}
+
+@font-face
+{
+	font-family:myriad;
+	src:url(../fonts/myriad-bold-italic.ttf);
+}
+
+body
+{
+	font-family:robotocondensed-regular;
+	font-size:1.1em;
+}
+
+#landing_page
+{
+	background-image:url(../images/sfe-landing-page.jpg);
+	background-size:cover;
+}
+
+#landing_page_title
+{
+	font-size:3.6em;
+	margin-top:35px;
+}
+
+#landing_page_btn
+{
+	margin-top:25%;
+}
+
+.title
+{
+	width:84%;
+	margin-top:55px;
+	margin-left:15px;
+	font-size:1.3em;
+	background-color:#343742;
+	opacity:.8;
+	padding-left:10px;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.header
+{
+
+	height:150px;
+    background-image:url(../images/sfe.jpg);
+	background-size:cover;
+}
+
+.contactinfo
+{
+	text-align:center;
+	border:solid #000000 1px;
+}
+
+.formdata
+{
+	word-wrap:break-word;
+	color:#ffffff;
+}
+
+#thankyou
+{
+	font-family:robotocondensed-regular;
+	font-size:24px;
+	color:#000000;
+	text-align:center;
+}
+
+#appreciation
+{
+	font-family:robotocondensed-regular;
+	font-size:16px;
+	margin-bottom:15px;
+	margin-top:4px;
+	margin-left:9px;
+}
+
+#item_added
+{
+	font-family:robotocondensed-regular;
+	font-size:24px;
+	color:#000000;
+	text-align:center;
+}
+
+#success
+{
+	font-family:robotocondensed-regular;
+	font-size:16px;
+	margin-bottom:15px;
+	margin-top:4px;
+	margin-left:9px;
+}
+
+#about_us_info
+{
+	padding:10px;
+	border:solid #000000 1px;
+}
+
+#event_info
+{
+	padding:10px;
+	border:solid #000000 1px;
+}
+
+.hours_and_location_info
+{
+	width:250px;
+	margin-left:10px;
+	text-align:center;
+	padding:10px;
+	border:solid #000000 1px;
+}
+
+.main_menu_return
+{
+	margin-left:20px;
+}
+
+.main_menu_btn
+{
+	opacity:.8;
+}
+
+.restaurant_menu_btn
+{
+	opacity:1;
+}
+
+.btn-style
+{
+	opacity:1;
+	font-size:.9em;
+}
+
+#event_schedule_btn
+{
+	opacity:1;
+}
+
+.panel_info
+{
+	padding:25px;
+	border:solid #000000 1px;
+}
+
+.formdata
+{
+	color:#000A0E;
+}
